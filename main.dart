@@ -9,7 +9,7 @@ import 'package:weather/weather.dart';
 
 
 void main() { runApp(MaterialApp(
-  title: "ouk",
+  title: "myapp",
 
   home:
   MyApp(),
